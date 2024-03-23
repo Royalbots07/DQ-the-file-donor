@@ -196,7 +196,7 @@ Nᴀᴍᴇ - {}"""
 <b>
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @Pirates_Titans
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @RoyalCreations_Rc
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @TitanMatters_Support
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
